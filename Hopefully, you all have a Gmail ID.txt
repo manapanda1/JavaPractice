@@ -1,0 +1,23 @@
+Hopefully, you all have a Gmail ID with the following convention
+
+ITuniversityRoll@gmail.com.
+
+For IT 6th sem students, Tomorrow, there will be a Coding Contest. 1 Question from the Data structure of 100 marks will be asked. The exam duration is 60 minutes.
+
+You have to register in Hacker Rank with the newly created Gmail id.
+
+
+
+Follow the steps:
+
+1. Assuming you have a Gmail id with ITuniversityRoll@gmail.com format
+2. Register in the Hacker Rank with the above gmail id
+3. After entering into Hacker Rank, goto "Settings" -> Change User Name with your University Roll Number.
+
+
+The exam will be held on March 23, 2025 (Sunday), from 07:00 PM to 08:00 PM.
+
+Do register now...
+
+Click here to register for the contest...
+https://www.hackerrank.com/2022-26-6th-mocktest01
